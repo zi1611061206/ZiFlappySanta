@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1058b8e877e23ef40b0a27f0fecbaa46
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundTrack: {fileID: 8300000, guid: 24fb4f2ab7a581d43a123daaa886fbb9, type: 3}
+  - txtPoint: {instanceID: 0}
+  - pnlEndGame: {instanceID: 0}
+  - txtEndPoint: {instanceID: 0}
+  - RestartButton: {instanceID: 0}
+  - StartButton: {instanceID: 0}
+  - LogOutButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
